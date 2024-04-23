@@ -35,8 +35,8 @@ const ImageCarousel = () => {
     <div style={carouselStyle}>
       {/* Add any content to display on top of the carousel if needed */}
       <div className='header-content flex items-center justify-center flex-col text-center'>
-      <h1 className='text-white text-4xl font-bold header-title ls-2'>Ay-ab Resources Library on Health and Relationship</h1>
-      <p className='text-uppercase font-medium text-base text-white my-3 ls-1'>Explore the Ay-ab Resources Library: Enhancing Health and Relationships</p>
+      <h1 className='text-white text-4xl font-bold header-title ls-2'>AY-AB RESOURCES LIBRARY</h1>
+      <p className='text-uppercase font-medium text-base text-white my-3 ls-1'>Explore the Ay-ab Resources Library: Enhancing Health and Relationships Books</p>
       <div className=' w-[100%] h-20 flex m-auto gap-5 items-center justify-center'>
         <Link to='/about'>
           <button className=' w-24 h-[40px] bg-white rounded-md font-semibold hover:bg-[#4c956c] hover:text-white'>About Us</button>

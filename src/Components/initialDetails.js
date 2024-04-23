@@ -100,17 +100,6 @@ const initialCards = [
 
   },
 
-  {
-    id: 1,
-    subject: 'Asthma In Children',
-    category: 'Health',
-    description: '"Gain invaluable knowledge and practical advice for managing childhood asthma with confidence in "Asthma in Children."',
-    intructor: 'AY - AB RESOURCES',
-    url: image8,
-    websiteUrl: 'https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MTEwMjEzODY5MzkyMTEyOjE3MTM3Nzk3NDM6c3BfYXRmX2Jyb3dzZTozMDAwMDE0ODMyODcyMDI6OjA6Og&url=%2FBrain-Food-Jaelen-Strong-ebook%2Fdp%2FB0C7F25KM9%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.yWEagzc0RvQ58fdJ4b61BMBkAPZpDR2ONOATwx1OagLwZo9gh9Q8yGTFKP2vmMB8TpHLOqv_ZY--oU7ODOcyB8uFLtvJ-Uv6wggBCmuNbbptY8szRygT6qAkUsiJTGFKkF3CQkJzbpJ0G3rFtOJ7HR0imF2nJjz_vgVbZG4E2VxRoajnibgdKmzDVPfkdBBh8sW0vcDOr07bOMFs6MJhhkvm9RP1YPQNks5sz_ROnb0.P24b46phMs4DY9hg5nkbSPYtlvQVioppo8m28zOqp-k%26dib_tag%3Dse%26qid%3D1713779743%26refinements%3Dp_n_feature_browse-bin%253A618073011%26s%3Dbooks%26sr%3D1-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfYnJvd3Nl%26psc%3D1'
-
-  },
-
 
   {
     id: 1,
